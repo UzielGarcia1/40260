@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE direccion SYSTEM "">
+<direccion>
+    <nombrecompleto>
+        <nombre>Uziel</nombre>
+        <apellidos>G S</apellidos>
+    </nombrecompleto>
+    <correo>s24013400@estudiantes.uv.mx</correo>
+    <telefono> 2288192019</telefono>
+    <cumple>
+        <dia>1</dia>
+        <mes>1</mes>
+        <anio>1</anio>
+    </cumple>
+</direccion>

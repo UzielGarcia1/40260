@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE restaurante SYSTEM "gramatica.dtd">
+
+<restaurante>
+  <platillo id="P01">
+    <nombre>Tacos</nombre>
+    <precio>50</precio>
+  </platillo>
+
+  <platillo id="P02">
+    <nombre>Quesadilla</nombre>
+    <precio>35</precio>
+  </platillo>
+
+  <bebida id="B01">
+    <nombre>Agua de horchata</nombre>
+    <precio>20</precio>
+  </bebida>
+</restaurante>

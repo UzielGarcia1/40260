@@ -1,0 +1,10 @@
+<!ELEMENT restaurante (platillo+, bebida+)>
+
+<!ELEMENT platillo (nombre, precio)>
+<!ATTLIST platillo id CDATA #REQUIRED>
+
+<!ELEMENT bebida (nombre, precio)>
+<!ATTLIST bebida id CDATA #REQUIRED>
+
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
